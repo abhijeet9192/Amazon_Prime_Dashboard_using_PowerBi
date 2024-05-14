@@ -19,7 +19,7 @@ The theme of the dashboard was designed similar to that of Amazon Prime Video lo
 
 Filled map is chosen to show total shows by country.
 
-Donut chart is used to show the proportion of TV shows and Movies.
+Dognut chart is used to show the proportion of TV shows and Movies.
 
 Area chart for total shows by release year.
 
