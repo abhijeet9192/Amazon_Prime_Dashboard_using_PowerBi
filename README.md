@@ -1,19 +1,44 @@
 # Amazon_Prime_Dashboard_using_PowerBi
 
-Welcome to the Amazon Prime Data Analysis repository! This project focuses on analyzing various aspects of Amazon Prime's data using Power BI, culminating in the creation of an interactive dashboard for comprehensive insights.
+Amazon Prime is another one of the most popular media and video streaming platforms. They have close to 10000 movies or tv shows available on their platform, as of mid-2021, they have over 200M Subscribers globally. This tabular dataset consists of listings of all the movies and tv shows available on Amazon Prime, along with details such as - cast, directors, ratings, release year, duration, etc.
 
-Project Overview:
+The project aims to build a dashboard with the help of the dataset.
 
-The Amazon Prime Data Analysis project aims to delve deep into the user behavior, content preferences, and subscription trends within the Amazon Prime ecosystem. By harnessing the capabilities of Power BI, this project offers a visually appealing and intuitive dashboard to explore and understand the underlying data effectively.
+Data source
+This project uses only one dataset.The dataset was obtained from the Kaggle Amazon Prime Movies and TV Shows.
 
-Key Features:
+Tool used:
 
-Interactive Dashboard: The centerpiece of this project is the interactive dashboard, developed using Power BI. It provides dynamic visualizations and user-friendly filters to dissect Amazon Prime's data effortlessly.
+Power BI - For creating dashboard.
 
-Comprehensive Data Analysis: The analysis encompasses a wide range of metrics including user engagement, content consumption patterns, subscription trends, and more.
+Approaches used:
 
-Data Visualization: The dashboard offers visually stunning representations of key metrics, making it easier for users to grasp complex insights at a glance.
+The data was downloaded from kaggle and loaded to Power BI.
 
-Customization Options: Users can customize the dashboard according to their specific needs, allowing for tailored analysis and exploration.
+The theme of the dashboard was designed similar to that of Amazon Prime Video logo which is balck and blue.
 
-Documentation: Detailed documentation accompanies the repository, providing guidance on how to replicate the analysis, load your own data, and customize the dashboard.
+Filled map is chosen to show total shows by country.
+
+Donut chart is used to show the proportion of TV shows and Movies.
+
+Area chart for total shows by release year.
+
+Stacked bar chart for both genre by total shows and ratings by total shows.
+
+Added cards and slicer on top of the dashboard for various metrics.
+
+Findings:
+
+The number of movies is higher than that of TV shows.
+United States has the highest number of shows followed by India.
+In 1920, there were three movies and zero TV shows.
+TV show started in 1932.
+The growth of TV shows started after 2000s.
+In 2021, there were 1139 movies and 303 TV shows.
+Most of the shows are of the drama genre.
+Most of the shows rated 13+.
+
+Recommendations:
+
+Focus on both US and Indian market.
+Invest more on TV shows too.
